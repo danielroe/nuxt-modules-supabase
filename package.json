@@ -28,7 +28,7 @@
     "@nuxt/kit": "^3.0.0-rc.5",
     "@supabase/supabase-js": "^1.35.4",
     "defu": "^6.0.0",
-    "pathe": "^0.3.2"
+    "pathe": "^1.1.2"
   },
   "devDependencies": {
     "@nuxt/module-builder": "^0.1.7",
