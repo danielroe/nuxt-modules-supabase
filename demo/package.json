@@ -14,7 +14,7 @@
     "@nuxthq/ui": "npm:@nuxthq/ui-edge@latest",
     "@nuxtjs/color-mode": "^3.1.4",
     "@nuxtjs/eslint-config-typescript": "^10.0.0",
-    "@nuxtjs/supabase": "^0.1.19",
+    "@nuxtjs/supabase": "^1.2.0",
     "eslint": "^8.20.0",
     "nuxt": "^3.0.0-rc.4",
     "typescript": "^4.7.4"
