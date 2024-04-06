@@ -1,7 +1,7 @@
 {
   "private": true,
   "engines": {
-    "node": ">=v16.15.1"
+    "node": ">=16.20.2"
   },
   "scripts": {
     "dev": "nuxi dev",
@@ -10,13 +10,13 @@
     "lint": "eslint --ext .ts,.js,.vue ."
   },
   "devDependencies": {
-    "@iconify-json/mdi": "^1.1.29",
+    "@iconify-json/mdi": "^1.1.65",
     "@nuxthq/ui": "npm:@nuxthq/ui-edge@latest",
-    "@nuxtjs/color-mode": "^3.1.4",
+    "@nuxtjs/color-mode": "^3.3.3",
     "@nuxtjs/eslint-config-typescript": "^10.0.0",
-    "@nuxtjs/supabase": "^0.1.19",
-    "eslint": "^8.20.0",
-    "nuxt": "^3.0.0-rc.4",
-    "typescript": "^4.7.4"
+    "@nuxtjs/supabase": "^0.3.8",
+    "eslint": "^8.57.0",
+    "nuxt": "^3.11.2",
+    "typescript": "^4.9.5"
   }
 }
